@@ -1,0 +1,44 @@
+.encabezado{
+    color: white;
+    background: blue;
+    border: double 4px;
+    border-color: white;
+    size: 15px;
+}
+.centrar{
+    text-align: center;
+}
+.centro{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:larger;
+    font-size: 30px;
+    
+}
+.izquierda1{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+.original{
+    color: white;
+    background: blue;
+    border: double;
+    border-color: white;
+}
+.dato{
+    color: white;
+    margin-right: 100px;
+    background: blue;
+    font-size: 30px;
+}
+.tamaño{
+    font-size: 30px;
+}
+#rojo{
+    color: red;
+}
+body{
+    background: #C0EEEE;
+}
